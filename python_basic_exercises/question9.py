@@ -1,5 +1,4 @@
 #check if a given number is palindrome
-
 #checking first with last and then moving from there
 def is_number_palindrome(number):
     string_number=str(number)
