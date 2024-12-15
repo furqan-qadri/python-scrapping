@@ -1,1 +1,1 @@
-position
+    print(char,i)
